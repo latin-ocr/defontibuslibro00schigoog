@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./defontibuslibro00schigoog_0055.png"; bbox 0 0 3106 5018; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 580 2347 1061 2398">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 580 2347 1061 2398">
+     <span class='ocr_line' id='line_1_1' title="bbox 580 2347 1061 2398; baseline -0.017 -7"><span class='ocrx_word' id='word_1_1' title='bbox 580 2352 650 2398; x_wconf 70' lang='lat' dir='ltr'><strong>Jeme,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 669 2349 722 2397; x_wconf 65' lang='lat' dir='ltr'><strong>typis</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 735 2347 871 2388; x_wconf 75' lang='lat' dir='ltr'><strong>Frlderici</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 888 2347 1061 2387; x_wconf 77' lang='lat' dir='ltr'><strong>Frommanni.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1558 5018">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1558 5018">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1558 5018; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1558 5018; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
